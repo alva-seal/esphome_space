@@ -2,7 +2,7 @@
   "type":"micro",
   "wake_word":"Hey selkie",
   "author": "Alva",
-  "model": "./hey_selkie.tflite",
+  "model": "hey_selkie.tflite",
   "trained_languages":["en"],
   "version":2,"micro" {
   "probability_cutoff":0.5,
