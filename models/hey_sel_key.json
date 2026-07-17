@@ -2,7 +2,7 @@
   "type": "micro",
   "wake_word": "hey_sel_key",
   "author": "Alva",
-  "model": "hey_sel_key.tflite",
+  "model": "./hey_sel_key.tflite",
   "trained_languages": ["en"],
   "version": 2,
   "micro": {
